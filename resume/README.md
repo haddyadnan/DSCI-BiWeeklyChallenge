@@ -1,1 +1,2 @@
-#RESUME FOLDER\nResumes are to be uploaded here
+#RESUME FOLDER
+Resumes are to be uploaded here
