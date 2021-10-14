@@ -1,8 +1,8 @@
-# **Things i have learnt**
+# **Things i have learnt about github**
 
 
-1. Git hub
-2. Virtual Environment
-3. Python Datatypes
-4. Creating Variables
-5. Creating a Function
+1. Branching
+2. Git init
+3. Git add
+4. Git commit
+5. Git pull
